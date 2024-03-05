@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    overflow: hidden;
+}
+
+.animated-element {
+    width: 50px;
+    height: 50px;
+    background-color: #4285f4;
+    position: absolute;
+}
